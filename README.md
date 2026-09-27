@@ -1,6 +1,6 @@
 # BLCA — BUET Low-Cost Accelerometer
 
-**Paper:** *Design and Development of a Low-Cost Earthquake Monitoring System Based on MEMS Accelerometer* — **accepted, IEEE Transactions on Instrumentation and Measurement (Sept 2026)**.
+**Paper:** *Design and Development of a Low-Cost Earthquake Monitoring System Based on MEMS Accelerometer*
 
 **Role (first author):** wrote the embedded firmware (C, Python), designed the carrier PCB, and performed the sensor noise characterization, two-point calibration, GUM uncertainty analysis, and STA/LTA post-analysis; led lab validation and multi-station field deployment.
 
