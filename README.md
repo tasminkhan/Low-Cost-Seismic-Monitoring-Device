@@ -4,7 +4,7 @@
 
 **Role (first author):** wrote the embedded firmware (C, Python), designed the carrier PCB, and performed the sensor noise characterization, two-point calibration, GUM uncertainty analysis, and STA/LTA post-analysis; led lab validation and multi-station field deployment.
 
-![status](https://img.shields.io/badge/IEEE_TIM-accepted-brightgreen) ![cost](https://img.shields.io/badge/unit_cost-%3C%24150-blue) ![platform](https://img.shields.io/badge/platform-Raspberry_Pi_Zero_2_W-red) ![lang](https://img.shields.io/badge/Python%20%7C%20C%2B%2B-embedded-informational)
+![cost](https://img.shields.io/badge/unit_cost-%3C%24150-blue) ![platform](https://img.shields.io/badge/platform-Raspberry_Pi_Zero_2_W-red) ![lang](https://img.shields.io/badge/Python%20%7C%20C%2B%2B-embedded-informational)
 
 
 ## Results
