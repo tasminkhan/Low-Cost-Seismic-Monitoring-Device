@@ -7,6 +7,7 @@
 ![cost](https://img.shields.io/badge/unit_cost-%3C%24150-blue)
 ![platform](https://img.shields.io/badge/platform-Raspberry_Pi_Zero_2_W-red)
 ![lang](https://img.shields.io/badge/embedded-Python%20%7C%20C%2B%2B-green)
+![matlab](https://img.shields.io/badge/analysis-MATLAB-orange)
 
 ## Results
 
